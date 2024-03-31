@@ -212,40 +212,41 @@ header .nav ul .flechita::after {
     font-size: 20px;
     font-family: 'iconitos';
     content: '\e985';
-    color: #742af2;
 }
 
 .section-3 div .box::after {
     font-size: 20px;
     font-family: 'iconitos';
     content: '\e903';
-    color: #34cda0;
+    color: #742af2;
 }
 
 .section-3 div .sun::after {
     font-size: 20px;
     font-family: 'iconitos';
     content: '\e9d4';
-    color: #e0353b;
+    color: #34cda0;
 }
 
 .section-3 div .cmd::after {
     font-size: 20px;
     font-family: 'iconitos';
     content: '\ea4e';
-    color: #fd7e16;
+    color: #e0353b;
 }
 
 .section-3 div .pre::after {
     font-size: 20px;
     font-family: 'iconitos';
     content: '\e00e';
+    color: #589afe;
 }
 
 .section-3 div .map::after {
     font-size: 20px;
     font-family: 'iconitos';
     content: '\e901';
+    color: #fc8019;
 }
 
 /* </section-3> */
